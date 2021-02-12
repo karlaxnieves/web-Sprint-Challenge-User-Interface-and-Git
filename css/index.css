@@ -348,9 +348,10 @@ button {
     margin-bottom: 3%;
 }
 
+/*footer*/
 
 .about-footer {
-    width: 80%;
+    width: 75%;
     background: black;
     margin: auto;
 }
